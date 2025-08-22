@@ -1,0 +1,1 @@
+window.showToastr=function(t,r){switch(t){case"success":toastr.success(r);break;case"info":toastr.info(r);break;case"error":toastr.error(r);break;case"warning":toastr.warning(r);break}};document.getElementById("btn-back-to-top");
